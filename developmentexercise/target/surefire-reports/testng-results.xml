@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="developementexercise.patterns.AccountDataFormatCorrectnessAnalizerTest" duration-ms="35" started-at="2016-05-22T16:07:21Z" finished-at="2016-05-22T16:07:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="35" started-at="2016-05-22T16:07:21Z" finished-at="2016-05-22T16:07:21Z">
+      <class name="developementexercise.patterns.AccountDataFormatCorrectnessAnalizerTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:developementexercise.patterns.AccountDataFormatCorrectnessAnalizerTest@7c75222b]" name="beforeTest" is-config="true" duration-ms="12" started-at="2016-05-22T18:07:21Z" finished-at="2016-05-22T18:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="isPasswordCorrectTest()[pri:0, instance:developementexercise.patterns.AccountDataFormatCorrectnessAnalizerTest@7c75222b]" name="isPasswordCorrectTest" duration-ms="6" started-at="2016-05-22T18:07:21Z" finished-at="2016-05-22T18:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPasswordCorrectTest -->
+        <test-method status="PASS" signature="isUsernameCorrectTest()[pri:0, instance:developementexercise.patterns.AccountDataFormatCorrectnessAnalizerTest@7c75222b]" name="isUsernameCorrectTest" duration-ms="0" started-at="2016-05-22T18:07:21Z" finished-at="2016-05-22T18:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isUsernameCorrectTest -->
+      </class> <!-- developementexercise.patterns.AccountDataFormatCorrectnessAnalizerTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- developementexercise.patterns.AccountDataFormatCorrectnessAnalizerTest -->
+</testng-results>
